@@ -377,7 +377,14 @@ class GetFreeProxy(object):
                  "https://www.my-proxy.com/free-anonymous-proxy.html",
                  "https://www.my-proxy.com/free-transparent-proxy.html",
                  "https://jffjdjkbfek.000webhostapp.com/proxy.txt",
-                 "https://cyber-hub.net/proxy/http.txt", ]
+                 "https://cyber-hub.net/proxy/http.txt",
+                 "http://spys.one/en/https-ssl-proxy",
+                 "http://spys.one/en/http-proxy-list/",
+                 "https://hidemy.name/en/proxy-list/",
+                 "http://www.httptunnel.ge/ProxyListForFree.aspx",
+                 "https://list.proxylistplus.com/SSL-List-1",
+                 "https://www.torvpn.com/en/proxy-list",
+                 ]
 
         request = WebRequest()
         for url in nurls:
